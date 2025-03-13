@@ -1,4 +1,4 @@
-📢 **Telemeet Bot – Your Ultimate Social Connection Bot!🎉  
+📢 **Telemeet Bot – Your Ultimate Social Connection Bot!** 🎉  
 
 🚀 **Telemeet Bot** is designed to help you connect with new friends, explore profiles, and engage in a meaningful social experience. Below is a detailed guide on all available commands and features!  
 
